@@ -1,48 +1,19 @@
-# DBOS Knowledge Repository
+# Recommended update to the main repository README
 
-## Overview
+## Add a new section after 'Repository Structure'
 
-The DBOS Knowledge Repository contains the approved operational knowledge, project instructions, reference material and supporting resources used by DBOS.
+### Programme Knowledge
 
-The repository is designed to grow over time. It complements the separate DBOS Standards repository:
+Programme Knowledge contains the approved learning, assessment and teaching resources organised by apprenticeship level.
 
-- **DBOS Standards** defines the architectural and governance baseline.
-- **DBOS Knowledge** contains the practical knowledge packages used to support day-to-day work.
+Current packages include:
 
-## Repository Principles
+- Level 3 Assessment Knowledge
+- Level 4 Assessment Knowledge
+- Level 5 Assessment Knowledge
 
-- Maintain one approved source of truth.
-- Keep shared resources in **Core Knowledge**.
-- Keep project-specific instructions and resources within their own knowledge package.
-- Prefer live official links for legislation and regulatory guidance.
-- Avoid unnecessary duplication.
-- Keep drafts and superseded material out of the active folders unless historical retention is required.
-- Use version control to record changes.
+These packages contain assessment workbooks, matched rubrics, learning aids, infographics, Bionic Reading editions and other programme-specific resources.
 
-## Current Knowledge Packages
+Unlike the operational knowledge packages (such as Duck Hunt or Direct Questions), Programme Knowledge is organised around apprenticeship programmes rather than DBOS capabilities.
 
-- Aim, Goal, Rewrite
-- Bionic Reader
-- Core Knowledge
-- Council of Dave
-- Direct Questions
-- Duck Hunt
-- Hodder
-- Learning Plan Planner
-- Legislation
-- Teaching and Learning Review
-
-## Repository Structure
-
-Each knowledge package should contain:
-
-- `README.md` explaining its purpose and use
-- approved instructions
-- relevant source documents
-- templates or examples where applicable
-
-## Status
-
-- **Version:** 1.0.0
-- **Status:** Active Development
-- **Repository owner:** Dave Beadle
+This section will expand as additional apprenticeship programmes and resources are developed.
